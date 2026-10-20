@@ -69,8 +69,8 @@ Inject faults to measure whether tests actually *catch* bugs — objective groun
 
 Flakiness is where "trust the green" quietly breaks down.
 
-- [DeFlaker](https://www.deflaker.org/) — Detects flaky tests from coverage of code changes without repeated reruns.
 - [iDFlakies](https://github.com/idflakies/iDFlakies) — A framework to detect and classify order-dependent vs non-order-dependent flaky tests.
+- [NonDex](https://github.com/TestingResearchIllinois/NonDex) — Detects tests that rely on under-determined Java API behaviour, a common source of flakiness.
 
 ## Visual & AI-assisted UI testing
 
