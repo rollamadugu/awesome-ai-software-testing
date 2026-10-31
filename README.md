@@ -74,6 +74,7 @@ Flakiness is where "trust the green" quietly breaks down.
 
 ## Visual & AI-assisted UI testing
 
+- [agent-qa](https://vostride.com) — Natural-language web and mobile UI tests with recorded evidence, persistent memidex memory, and validated self-improvement.
 - [Applitools](https://applitools.com/) — Visual AI for UI validation and cross-environment comparison.
 - [Percy (BrowserStack)](https://percy.io/) — Visual review and regression testing.
 
